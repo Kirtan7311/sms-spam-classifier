@@ -17,12 +17,12 @@ pip install -r requirements.txt
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/spam-classifier.git
+    git clone https://github.com/Kirtan7311/sms-spam-classifier.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd spam-classifier
+    cd sms-spam-classifier
     ```
 
 3. Install the required dependencies:
